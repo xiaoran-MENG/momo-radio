@@ -1,6 +1,8 @@
 import {
+    faBook,
     faCirclePlay,
     faHome,
+    faPlus,
     faSearch,
     IconDefinition,
 } from "@fortawesome/free-solid-svg-icons";
@@ -8,5 +10,7 @@ import {
 export const fontAwesomeIcons: IconDefinition[] = [
     faCirclePlay,
     faHome,
-    faSearch
+    faSearch,
+    faBook,
+    faPlus
 ]
